@@ -1,0 +1,23 @@
+Projeto UX/UI - Sistema de Controle de Estoque Doméstico
+
+Objetivos do Sistema:
+- Permitir o gerenciamento de produtos armazenados em casa.
+- Facilitar o registro de entrada e saída de itens do estoque.
+- Alertar sobre produtos vencidos ou em baixa quantidade.
+- Gerar relatórios de consumo.
+
+Personas:
+1. Usuário Comum: Realiza movimentações básicas e consultas.
+2. Administrador: Acessa relatórios e gerencia cadastros.
+
+User Flows:
+- Login > Tela Principal > Cadastro de Produto > Movimentações > Relatórios
+
+Telas planejadas:
+- Login
+- Tela Principal (menu)
+- Cadastro de Produto
+- Movimentação de Estoque
+- Relatórios
+
+Ferramenta: Interface desenvolvida no Figma com foco em simplicidade e clareza.

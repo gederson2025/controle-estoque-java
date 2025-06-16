@@ -1,0 +1,14 @@
+ControleEstoqueDomestico/
+├── src/
+│   ├── modelo/
+│   │   ├── Produto.java
+│   │   ├── Usuario.java
+│   │   ├── Movimentacao.java
+│   │   └── Categoria.java
+│   ├── dao/
+│   │   ├── Conexao.java
+│   │   ├── ProdutoDAO.java
+│   │   └── UsuarioDAO.java
+│   └── principal/
+│       └── ControleEstoque.java
+└── nbproject/

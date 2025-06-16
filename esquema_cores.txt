@@ -1,0 +1,10 @@
+Esquema de Cores - Sistema de Estoque
+
+- Fundo: #f5f5f5 (cinza claro)
+- Primária: #1976D2 (azul escuro)
+- Secundária: #64B5F6 (azul claro)
+- Texto Principal: #212121 (preto suave)
+- Botões: Azul com texto branco (#ffffff)
+
+Fonte recomendada: Roboto ou Arial
+Tamanho mínimo de fonte: 14px

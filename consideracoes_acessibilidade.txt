@@ -1,0 +1,8 @@
+Considerações de Acessibilidade
+
+- Contraste conforme normas WCAG nível AA.
+- Suporte total ao uso via teclado (navegação por tabulação).
+- Labels descritivos e claros em todos os campos de entrada.
+- Mensagens de erro visíveis e acessíveis.
+- Feedback visual em botões e campos ativos.
+- Compatível com leitores de tela (uso de ARIA labels quando necessário).
